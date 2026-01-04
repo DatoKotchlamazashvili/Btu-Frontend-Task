@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 18px;
+    font-size: 16px;
+    border: none;
+    background-color:blue;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: cyan;
+}
+
+.users {
+    margin-top: 25px;
+}
+
+.user {
+    background: white;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+
+.user h3 {
+    margin: 0 0 5px 0;
+}
+
+.user p {
+    margin: 2px 0;
+    color:gray;
+}
